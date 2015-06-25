@@ -1,0 +1,170 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Fresh Air Systems</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<META NAME="Author" CONTENT="tFact Inc">
+<META NAME="Keywords" CONTENT="Fresh Air Systems Air Conditioning, Heating, Heat Pumps, Air Cleaner, Humidifier, HVAC, Evaporative Coolers, Ductwork, Air Conditioning Contractor, Air Conditioning, Air, Central, Conditioning, Conditioner, Cooling, Systems, System, Repair, Heat, Conditioners, Odors">
+<META NAME="Description" CONTENT="We at Fresh Air Systems (FAS) have been providing quality service to the Greater Los Angeles and Ventura County areas since 1964.  Our technicians are highly trained in the field of heating, air conditioning and refrigeration for residential and commercial needs.">
+<style type="text/css">
+<!--
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FFFFFF;
+}
+body {
+	background-color: #FFFFFF;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.style1 {
+	color: #FFFF66;
+	font-size: 14px;
+}
+.style3 {
+	font-size: 16px;
+	color: #FF0000;
+}
+.style5 {
+	font-size: 18px;
+	color: #000000;
+}
+.style6 {font-size: 10px}
+.style12 {
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+</head>
+
+<body onLoad="MM_preloadImages('images/BUTTONS/b_home_over.gif','images/BUTTONS/b_companyinfo_over.gif','images/BUTTONS/b_acheaters_over.gif','images/BUTTONS/b_products_over.gif','images/BUTTONS/b_services_over.gif','images/BUTTONS/b_testimonials_over.gif','images/BUTTONS/b_contactus_over.gif')">
+<div align="center">
+<table width="800" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="2"><script type="text/javascript">
+AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0','width','800','height','90','src','images/swf/header','quality','high','pluginspage','http://www.macromedia.com/go/getflashplayer','movie','images/swf/header' ); //end AC code
+</script><noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="800" height="90">
+      <param name="movie" value="images/swf/header.swf">
+      <param name="quality" value="high">
+      <embed src="images/swf/header.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="800" height="90"></embed>
+    </object></noscript></td>
+    </tr>
+  <tr align="center" valign="middle" bgcolor="#FFFFFF">
+    <td colspan="2" valign="middle"><span class="style6 style3"><strong>Call: (800) 598-FAST <img src="images/spacer.gif"> (818) 700-1233 <img src="images/spacer.gif"> Fax: (818) 700-8760 <img src="images/spacer.gif"> Email: <a href="mailto:info@freshairfast.com">Info@FreshAirFast.com </a></strong></span>
+	</td>
+  </tr>
+  <tr>
+    <td width="187" align="left" valign="top" bgcolor="#FFFFFF">			
+	    <p><a href="index.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Home','','images/BUTTONS/b_home_over.gif',1)"><img src="images/BUTTONS/b_home_up.gif" alt="Home" name="Home" width="166" height="35" border="0"></a><br>
+        <a href="company_info.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Company Info','','images/BUTTONS/b_companyinfo_over.gif',1)"><img src="images/BUTTONS/b_companyinfo_up.gif" alt="Company Info" name="Company Info" width="166" height="35" border="0"><br>
+        </a><a href="ac_heaters.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Air Conditioners & Heaters','','images/BUTTONS/b_acheaters_over.gif',1)"><img src="images/BUTTONS/b_acheaters_up.gif" alt="Air Conditioners & Heaters" name="Air Conditioners & Heaters" width="166" height="35" border="0"></a><br>
+        <a href="refrigeration.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Refrigeration','','images/BUTTONS/b_refrigeration_over.gif',0)"><img src="images/BUTTONS/b_refrigeration_up.gif" alt="Refrigeration" name="Refrigeration" width="166" height="35" border="0"></a><br>
+        <a href="products.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Products','','images/BUTTONS/b_products_over.gif',1)"><img src="images/BUTTONS/b_products_up.gif" alt="Products" name="Products" width="166" height="35" border="0"></a><br>
+        <a href="services.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Services','','images/BUTTONS/b_services_over.gif',1)"><img src="images/BUTTONS/b_services_up.gif" alt="Services" name="Services" width="166" height="35" border="0"></a><br>
+        <a href="testimonials.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Testimonials','','images/BUTTONS/b_testimonials_over.gif',1)"><img src="images/BUTTONS/b_testimonials_up.gif" alt="Testimonials" name="Testimonials" width="166" height="35" border="0"></a><br>
+        <a href="contact_us.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Contact Us','','images/BUTTONS/b_contactus_over.gif',1)"><img src="images/BUTTONS/b_contactus_up.gif" alt="Contact Us" name="Contact Us" width="166" height="35" border="0"></a></p>
+      <p><img src="images/assoc/better_business_bureau_logo.jpg" width="187" height="85"><img src="images/assoc/Energy-Star-Logo-color-copy.gif" width="150" height="179"></p></td>
+    <td width="700" align="left" valign="top" bgcolor="#FFFFFF">
+    	<br>
+      <table width="80%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td colspan="3"><span class="style12">Read what our customers are saying:</span><br>  
+                <br>
+            </td>
+        </tr>
+        <tr>
+          <td width="10"></td>
+          <td><span class="style12">" Unfortunately, we've had several costly issues with our HVAC system. We originally used Econo Air until their service went from passable to totally unacceptable in a very short time.<br>
+            <br>
+          
+          I did some research on the web through Service Master and came up with 3 different companies. I spoke to all at length and decided to give Fresh Air Systems a try. I was extremely impressed with their attitude, knowledge, service and pricing structure. They are a relationship based, family owned and operated company doing business for more than 42 years. I referred them to a friend of mine who had been using Econo Air and she was also very pleased with Fresh Air Systems.<br><br>
+
+I know it is important to you to be able to provide your clients with local, vetted referrals and this is one company I would feel very positive about recommending to anyone. Fresh Air Systems services residential as well as commercial customers and offers maintenance contracts which may also provide discounts on parts and/or labor when applicable." by Claudia</span></td>
+          <td width="10"></td>
+        </tr>
+        <tr>
+          <td width="10">&nbsp;</td>
+          <td></td>
+          <td width="10"></td>
+        </tr>
+        <tr>
+          <td width="10"></td>
+          <td></td>
+          <td width="10"></td>
+        </tr>
+        <tr>
+          <td width="10"></td>
+          <td></td>
+          <td width="10"></td>
+        </tr>
+      </table>
+
+<br>
+
+
+
+      <table width="80%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td align="center" valign="top"><span class="style12">Find us on <br>
+              <a href="http://www.yelp.com/biz/fresh-air-systems-chatsworth"><img src="images/sm/yelp.jpg" alt="Find us on YELP!" border="0"></a>.<br>
+          </span></td>
+          <td align="center" valign="top"><span class="style12">View us on </span><br>
+            <a href="http://www.youtube.com/user/FreshAirSystems"><img src="images/sm/youtube.jpg" alt="You Tube" width="117" height="37" border="0"><br>
+            <br>
+            </a></td>
+        </tr>
+        <tr>
+          <td align="center" valign="middle"><span class="style12">Read about us on<br>
+            <br>
+            <a href="http://csrtools.servicemagic.com/biz/freshairsystemsca"><img src="images/sm/sm_logo.gif" alt="Service Magic" width="117" height="18" border="0"></a></span></td>
+          <td align="center" valign="top"><span class="style12">Read more on<br>
+              <a href="http://www.kudzu.com/m/Fresh-Air-Systems-7205655"><img src="images/sm/logo_header.gif" alt="Kudzu" width="117" height="101" border="0"></a></span></td>
+        </tr>
+      </table>
+      <p align="center" class="style1 style2 style5">&nbsp;</p>
+      <cetner>
+
+
+
+      </center>      
+      <p align="justify" class="style1 style2 style5">&nbsp;</p></td>
+    </tr>
+  <tr bgcolor="#FFFFFF">
+    <td colspan="2">&nbsp;</td>
+  </tr>
+</table>
+</div>
+</body>
+</html>
